@@ -1,3 +1,3 @@
-12 49 * 157 14 7 * - - 93 + 0 1 - 1 13 2 12 * 14 - * 2 * - 3 + 6 * * - 1 -  // The expression written with postfix notation.
-- - + - * 12 49 - 157 * 14 7 93 * - 0 1 * + - 1 * * 13 - * 2 12 14 2 3 6 1  // The expression written with prefix notation.
+12 49 * 157 14 7 * - - 93 + 0 1 - 1 13 2 12 * 14 - * 2 * - 3 + 6 * * - 1 -  // The expression written in postfix notation.
+- - + - * 12 49 - 157 * 14 7 93 * - 0 1 * + - 1 * * 13 - * 2 12 14 2 3 6 1  // The expression written in prefix notation.
 -915 //The result.
