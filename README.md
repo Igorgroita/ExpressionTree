@@ -1,6 +1,6 @@
 # ExpressionTree
 The evaluation of arithmetic expressions using an expression tree.
-The arithmetic expression can be formed with the binary operators: '+', '-', '"*"', '/'. 
+The arithmetic expression can be formed with the binary operators: '+', '-', ' * ', '/'. 
 <br>
 '-' ("minus") can be used as a unary operator.
 <br>
